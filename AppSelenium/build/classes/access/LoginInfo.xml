@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <url></url>
+    
+    <login>//*[@name='login']</login>
+    
+    <links>//*/a</links>
+
+    <texts>//*/p | //*/pre | //*/a | //*/h1 | //*/h2 | //*/h3 | //*/h4 | //*/h5 | //*/h6 | //*/li</texts>
+    
+    <images>//*/img</images>
+</root>
